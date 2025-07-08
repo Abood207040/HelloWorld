@@ -1,1 +1,1 @@
-![Task Screenshot](screenshots/Screenshot Task 1.png)
+![Task Screenshot](Screenshot Task 1.png)
